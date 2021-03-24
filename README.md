@@ -1,7 +1,11 @@
-# Flutter Facebook Responsive UI Tutorial
+# First Project Ever using Flutter
 
-[YouTube Tutorial](https://youtu.be/HvLb5gdUfDE)
+# Flutter Facebook Responsive UI
 
-![Mobile Screenshot](screenshots/facebook-mobile.png)
+![Mobile Screenshot](screenshots/mobile.png)
 
-![Web Screenshot](screenshots/facebook-web.png)
+![Web Screenshot](screenshots/web.png)
+
+Tutorial by
+
+- Marcus Ng
